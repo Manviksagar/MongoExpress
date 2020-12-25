@@ -1,0 +1,9 @@
+http://localhost:4545/v1
+
+http://localhost:4545/v1/post
+
+{
+"name":"vidya",
+"tech":"express"
+
+}
